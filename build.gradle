@@ -1,5 +1,5 @@
 plugins { id 'fabric-loom' version '1.9' }
-version = '1.0.0'
+version = '1.0'
 group = 'com.neu'
 dependencies {
     minecraft "com.mojang:minecraft:1.21.11"
